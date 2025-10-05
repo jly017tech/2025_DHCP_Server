@@ -26,3 +26,12 @@
 
  <p>I use the IP addresses I mention from Creating scope section and put 172.168.22.100 in Start Address and 172.168.22.200 in End.
  Lastly, I put subnet to 24 and it is equivalent as 255.255.255.0</p>
+
+
+
+<h1>Add Exclusion addresses </h1>
+
+<img width="1380" height="714" alt="image" src="https://github.com/user-attachments/assets/0962d643-9084-4e77-ba21-b79de6cedafb" />
+
+
+<p>I add 172.168.22.102 from my Windows Server so it doesn't accidentally detect by DHCP server</p>
