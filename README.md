@@ -33,5 +33,11 @@
 
 <img width="1380" height="714" alt="image" src="https://github.com/user-attachments/assets/0962d643-9084-4e77-ba21-b79de6cedafb" />
 
+<br>
 
 <p>I add 172.168.22.102 from my Windows Server so it doesn't accidentally detect by DHCP server</p>
+
+
+<h1>Configure DHCP Server Options</h1>
+
+<p>I say yes configure DHCP server, so I won't go back configure manually myself </p>
