@@ -24,6 +24,8 @@
 
 <img width="1361" height="718" alt="image" src="https://github.com/user-attachments/assets/5f423993-c8e9-4513-addf-35b956545a8b" />
 
+<br>
+
  <p>I use the IP addresses I mention from Creating scope section and put 172.168.22.100 in Start Address and 172.168.22.200 in End.
  Lastly, I put subnet to 24 and it is equivalent as 255.255.255.0</p>
 
@@ -40,6 +42,8 @@
 
 <h1>Configure DHCP Server Options</h1>
 
+<br>
+
 <p>I say yes configure DHCP server, so I won't go back configure manually myself </p>
 
 
@@ -47,6 +51,15 @@
 
 <img width="1375" height="746" alt="image" src="https://github.com/user-attachments/assets/375ecae7-51e9-4312-8e6c-8fc6152f101a" />
 
+<br>
+
 <p> I skip this setp because I already setup in my Windows Server IP address setting already, so when I create another virtual machine and deploy with MDT.
 It automatically picks up by DHCP server I setup.</p>
 
+
+<h1>Activate Scope</h1>
+
+<img width="1366" height="721" alt="image" src="https://github.com/user-attachments/assets/cd4918f6-204d-4522-a69d-ed19cec245d5" />
+
+
+<p>And the last step I did is to activate the scope and it will complete wizard installation window box.</p>
