@@ -41,3 +41,12 @@
 <h1>Configure DHCP Server Options</h1>
 
 <p>I say yes configure DHCP server, so I won't go back configure manually myself </p>
+
+
+<h1>Setting Router</h1>
+
+<img width="1375" height="746" alt="image" src="https://github.com/user-attachments/assets/375ecae7-51e9-4312-8e6c-8fc6152f101a" />
+
+<p> I skip this setp because I already setup in my Windows Server IP address setting already, so when I create another virtual machine and deploy with MDT.
+It automatically picks up by DHCP server I setup.</p>
+
